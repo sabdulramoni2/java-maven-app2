@@ -11,3 +11,16 @@ Maven is a powerful build automation tool primarily used for Java projects. Thin
 - Install the dependencies
 - Build the application
 - Ran the application
+
+
+
+![image](https://github.com/user-attachments/assets/e636ad2e-2060-4f65-868b-ce44704b48e5)
+
+
+
+![image](https://github.com/user-attachments/assets/1c78dc32-8de3-4038-bb3c-c5444a87390f)
+
+
+
+
+![image](https://github.com/user-attachments/assets/e53c8f1a-dc04-491b-8825-dedd598c5cd0)
